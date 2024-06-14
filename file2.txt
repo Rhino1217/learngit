@@ -1,2 +1,0 @@
-test git add filename.txt
-git commit -m "comments"
